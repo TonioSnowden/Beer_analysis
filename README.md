@@ -1,6 +1,9 @@
 ## Abstract 
 The aim of this project was to help a beer consulting firm to advise a client who wants to open a brewery in the United States. 
 
+## Date
+Fall 2022
+
 ## Research Questions
 **Part 1 - First insights from the beer reviews websites**
 - Where do consumers come from ?
